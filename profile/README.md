@@ -1,5 +1,5 @@
 ## 🎧 🎶 WebSoundRoom Github Origanization 🥁 🎹
 
 ```
-Coming soon...
+More details soon...
 ```
