@@ -1,4 +1,4 @@
-## 🎧 🎶 WebSoundRoom Github Origanization 🥁 🎹
+## 🎧 🎶 LabSesh Github Origanization 🥁 🎹
 
 ```
 More details soon...
